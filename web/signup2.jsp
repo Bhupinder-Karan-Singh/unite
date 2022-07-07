@@ -81,8 +81,8 @@
                
                 
              String to = em;//change accordingly  
-             final String user = "karansingh1455";
-             final String pass = "@Waheguru11";
+             final String user = "";
+             final String pass = "";
              
   //Get the session object  
   Properties props = new Properties();  
