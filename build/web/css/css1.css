@@ -1,0 +1,238 @@
+.formtable_style
+{
+    font-size: 17px;
+    background-color:white;
+    font-family: arial;
+   
+    
+}
+.textfield_style
+{
+   width: 200px;
+  height: 10px;
+ 
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 13px;
+  box-shadow: 0px 0px 8px #355692; 
+  -moz-box-shadow: 0px 0px 8px #355692; 
+  -webkit-box-shadow: 0px 0px 8px #355692;
+} 
+
+.textfield_style:focus 
+{ 
+    outline: none; 
+    border: 1px solid #355692; 
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+
+.password_style
+{
+  width: 200px;
+  height: 10px;
+  
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 13px;
+  box-shadow: 0px 0px 8px #355692; 
+  -moz-box-shadow: 0px 0px 8px #355692; 
+  -webkit-box-shadow: 0px 0px 8px #355692;
+} 
+
+.password_style:focus 
+{ 
+    outline: none; 
+    border: 1px solid #355692; 
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.textarea_style
+{
+    width: 300px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.button_style
+{
+  
+    background-color: #355692; 
+    padding: 10px;
+    height: 45px;
+    border: 2px solid #355692;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 17px;
+    color: white;
+   
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+    
+}
+.button_style:hover{background:#4e6aa1;}
+
+.bt1
+{
+width: 60px; 
+height: 30px;
+border-radius: 5px;
+background-color: #4e6aa1;;
+color: white;
+    background: #4e6aa1; }
+
+.select_style
+{
+    width: 325px;
+    height: 45px;
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    font-size: 15px;
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.select_style:focus 
+{ 
+    outline: none; 
+    border: 1px solid #355692; 
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+.date_style
+{
+    width: 300px;
+    height: 27px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.date_style:focus 
+{ 
+    outline: none; 
+    border: 1px solid #355692; 
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.file_style
+{
+    width: 300px;
+    height: 27px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+
+.file_style:focus 
+{ 
+    outline: none; 
+    border: 1px solid #355692; 
+    box-shadow: 0px 0px 8px #355692; 
+    -moz-box-shadow: 0px 0px 8px #355692; 
+    -webkit-box-shadow: 0px 0px 8px #355692; 
+} 
+legend
+{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+    color:#355692 ;
+}
+.post_legend
+{
+    font-size: 15px;
+/*    font-style: italic;*/
+    font-weight: bolder;
+    color:#355692 ;
+}
+.fieldset_form
+{
+    display: inline;
+    border: 2px solid #355692;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px #355692; 
+    -moz-box-shadow: 10px 10px 10x #355692; 
+    -webkit-box-shadow: 10px 10px 10px #355692; 
+}
+.fieldset_for_post
+{
+    display: inline;
+    border: 2px solid #355692;
+    border-radius: 20px;
+    padding: 10px;
+    width: 550px;
+    box-shadow: 10px 10px 10px #355692; 
+    -moz-box-shadow: 10px 10px 10x #355692; 
+    -webkit-box-shadow: 10px 10px 10px #355692; 
+}
+.fieldset_viewtable
+{
+    display: inline;
+    border: 2px solid #355692;
+    border-radius: 10px;
+    padding: 10px;
+    width: 70%;
+    box-shadow: 10px 10px 10px #355692; 
+    -moz-box-shadow: 10px 10px 10x #355692; 
+    -webkit-box-shadow: 10px 10px 10px #355692; 
+}
+
+
+.viewtable
+{
+    font-size: 17px;
+    font-family: arial;
+    width: 100%;
+}
+.viewtable img
+{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.viewtable th
+{
+    background-color: #355692;
+    color: white;
+}
+.viewtable td
+{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+}
+.viewtable a
+{
+    color: #355692;
+}
+.viewtable label
+{
+    color:#355692;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
